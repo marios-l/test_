@@ -11,3 +11,5 @@
 # Git 2
 
 # Branch change
+
+# Master change
